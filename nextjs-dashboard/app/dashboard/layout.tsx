@@ -1,4 +1,4 @@
-import {lustiana} from '@/app/ui/font'
+import {lustiana} from '@/app/ui/fonts'
 import SideNav from '@/app/ui/dashboard/sidenav'
 
 export default function Layout ({children}: {children:React.ReactNode}) {
